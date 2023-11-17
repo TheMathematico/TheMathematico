@@ -13,6 +13,9 @@
   My code isn't that advanced, it's mostly simple math programs
   aswell as a bit of other stuff!
 
+  You can find all of my programs and code in different branches.
+  You're currently in the main branch, i recommend checking out my mathprogram branch!
+  
   I hope my code helps you as much as it can.
   
   
