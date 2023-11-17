@@ -10,8 +10,9 @@
   You may NOT publish my code WITHOUT giving me credits.
   You may NOT claim my code as yours.
 
-  My code isn't that advanced, it's mostly simple math programs
-  aswell as a bit of other stuff!
+  how to use:
+  Same for the input version, the code asks for num1, num2, and symbol(+,-,*,/) and then it shows the result in the label.
+  The entry at the first line is num1, the entry at the second line is the symbol and the entry at the third line is num2.
 
   I hope my code helps you as much as it can.
   
